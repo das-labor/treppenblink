@@ -1,0 +1,14 @@
+* text=auto !eol
+/Makefile -text
+/config.h -text
+/ds1631.c -text
+/ds1631.h -text
+/hardware.c -text
+/hardware.h -text
+/io.c -text
+/io.h -text
+/led_driver.c -text
+/led_driver.h -text
+/main.c -text
+/motion.c -text
+/motion.h -text
