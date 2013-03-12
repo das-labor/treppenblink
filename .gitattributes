@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/animationen.c -text
 /config.h -text
 /ds1631.c -text
 /ds1631.h -text
