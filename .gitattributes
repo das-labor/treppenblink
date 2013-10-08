@@ -2,6 +2,8 @@
 /Makefile -text
 /animationen.c -text
 /animationen.h -text
+/can_handler.c -text
+/can_handler.h -text
 /config.h -text
 /ds1631.c -text
 /ds1631.h -text
