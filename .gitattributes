@@ -16,3 +16,5 @@
 /main.c -text
 /motion.c -text
 /motion.h -text
+/temp_read.c -text
+/temp_read.h -text
